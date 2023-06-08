@@ -1,1 +1,1 @@
-# MSC szakdolgozat - Kérdezői hatás vizsgálata multilevel modellekkel 
+# MSc szakdolgozat - Kérdezői hatás vizsgálata multilevel modellekkel 
